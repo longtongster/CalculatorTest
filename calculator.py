@@ -1,5 +1,7 @@
 """
 Calculator library containing basic math operations.
+
+Code taken from real python website
 """
 
 
