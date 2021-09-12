@@ -7,3 +7,5 @@ workflow on creating a workflow pipeline for CI/CD
 The steps to follow from the following url:
 
 https://realpython.com/python-continuous-integration/
+
+You can also link Pycharm to git and github.
