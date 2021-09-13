@@ -4,6 +4,7 @@ Calculator library containing basic math operations.
 Code taken from real python website
 """
 
+
 def add(first_term, second_term):
     return first_term + second_term
 
